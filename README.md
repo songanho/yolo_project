@@ -10,6 +10,8 @@ yolo v5 모델을 이용하여 간판에 포함된 이미지를 찍고 해당 �
 
 그 후 Rotate, Crop, Roation, Brightness, Exposure, Blur 등의 증강 기을 사용해 이미지의 다양한 환경을 고려 총 189장의 이미지를 만들고
 
-165장의 train 용 이미지, 16장의 valid 용 이미지, 8장의 test 용 이미지를 포함한 dataset 생성
+165장의 train 용 이미지, 16장의 valid 용 이미지, 8장의 test 용 이미지를 포함한 dataset 준비
+
+
 
 
