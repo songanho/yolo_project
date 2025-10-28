@@ -1,1 +1,4 @@
-# yolo_practice
+# yolo_project
+
+yolo v5 모델을 이용하여 간판에 포함된 이미지를 찍고 해당 이미지에서 간판 속 특정 단어를 인식하기
+
