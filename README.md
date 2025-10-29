@@ -18,7 +18,7 @@ yolo v5 모델을 이용하여 간판에 포함된 이미지를 찍고 해당 �
 
 구글 코랩을 통해 준비한 dataset을 Yolov5 모델을 이용해 학습을 진행
 
-
+https://colab.research.google.com/drive/1uECnbvRNEFOkg-qme9PVQLndRCTqge0K
 
 
 
