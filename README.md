@@ -30,6 +30,9 @@ https://colab.research.google.com/drive/1uECnbvRNEFOkg-qme9PVQLndRCTqge0K
 
 ### result
 
+
+![Image](https://github.com/user-attachments/assets/ab026705-729f-4a29-935c-5810255091f6)
+
 ![Image](https://github.com/user-attachments/assets/44fe50fe-a789-4252-85ac-36558bc52fd5)
 
 16장의 검증용 이미지로 모델 검증을 수행한 결과 
