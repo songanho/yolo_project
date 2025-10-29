@@ -14,3 +14,17 @@ yolo v5 모델을 이용하여 간판에 포함된 이미지를 찍고 해당 �
 
 ![Image](https://github.com/user-attachments/assets/1adbeb7c-1df3-4096-a5cf-259c66aaeb76)
 
+### Modeling
+
+구글 코랩을 통해 준비한 dataset을 Yolov5 모델을 이용해 학습을 진행
+
+
+
+
+
+
+
+
+
+### result
+
