@@ -30,8 +30,8 @@ https://colab.research.google.com/drive/1uECnbvRNEFOkg-qme9PVQLndRCTqge0K
 
 ### result
 
-
-![Image](https://github.com/user-attachments/assets/ab026705-729f-4a29-935c-5810255091f6)
+![Image](https://github.com/user-attachments/assets/410f6fb6-36b6-480b-a588-9eea6fbec6e5)
+![Image](https://github.com/user-attachments/assets/c814d7db-d95e-4c60-8ccf-352a1b232b03)
 
 ![Image](https://github.com/user-attachments/assets/44fe50fe-a789-4252-85ac-36558bc52fd5)
 
