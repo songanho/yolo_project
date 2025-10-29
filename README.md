@@ -28,3 +28,6 @@ https://colab.research.google.com/drive/1uECnbvRNEFOkg-qme9PVQLndRCTqge0K
 
 ### result
 
+![Image](https://github.com/user-attachments/assets/44fe50fe-a789-4252-85ac-36558bc52fd5)
+
+![Image](https://github.com/user-attachments/assets/6758c79f-131d-47e1-8ab0-b6d0c43109f0)
